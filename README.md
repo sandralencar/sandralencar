@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Sandra+Alencar!;Welcome+to+my+profile!;Desenvolvimento+Web+%7C+Tecnologia;Sempre+aprendendo+e+evoluindo!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Sandra+Alencar!;Welcome+to+my+profile!;Desenvolvimento+Web+%7C+Tecnologia;Sempre+aprendendo+e+evoluindo!" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -20,13 +20,13 @@ Busco constantemente aprimorar meus conhecimentos, explorando novas ferramentas,
 <h3 align="left">Connect with me! 🌐</h3>
 
 <a href="mailto:alencarsandra35@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6" alt="Email">
+  <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6" alt="Email"/>
 </a>
 <a href="https://www.linkedin.com/in/sandra-alencar-637135300">
-  <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/sandralencar">
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FF00F6" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FF00F6" alt="GitHub"/>
 </a>
 
 #
@@ -35,29 +35,58 @@ Busco constantemente aprimorar meus conhecimentos, explorando novas ferramentas,
 
 <h4>Front-end</h4>
 
-<img align="left" alt="HTML5" title="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS3" title="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img align="left" alt="JavaScript" title="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<p>
+  <img title="HTML5" alt="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img title="CSS3" alt="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img title="JavaScript" alt="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+</p>
 
-<br clear="both"/>
+<h4>Back-end</h4>
 
-<h4>Back-end e Banco de Dados</h4>
+<p>
+  <img title="Node.js" alt="Node.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+  <img title="Express.js" alt="Express.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"/>
+</p>
 
-<img align="left" alt="Node.js" title="Node.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-<img align="left" alt="Express" title="Express.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"/>
-<img align="left" alt="MySQL" title="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+<h4>Banco de Dados e Cloud</h4>
 
-<br clear="both"/>
+<p>
+  <img title="MySQL" alt="MySQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+  <img title="Supabase" alt="Supabase" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"/>
+</p>
 
-<h4>Ferramentas de Desenvolvimento</h4>
+<h4>Ferramentas de Desenvolvimento e Organização</h4>
 
-<img align="left" alt="Git" title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-<img align="left" alt="GitHub" title="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
-<img align="left" alt="VS Code" title="VS Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
-<img align="left" alt="Jest" title="Jest" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"/>
-<img align="left" alt="NPM" title="NPM" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"/>
+<p>
+  <img title="Git" alt="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img title="GitHub" alt="GitHub" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+  <img title="VS Code" alt="VS Code" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+  <img title="Jest" alt="Jest" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"/>
+  <img title="NPM" alt="NPM" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"/>
+  <img title="Trello" alt="Trello" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg"/>
+  <img title="RStudio" alt="RStudio" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg"/>
+</p>
 
-<br clear="both"/>
+#
+
+<h3 align="left">Conhecimentos Técnicos 🛠️</h3>
+
+![REST API](https://img.shields.io/badge/REST_API-000?style=for-the-badge)
+![MVC](https://img.shields.io/badge/Arquitetura_MVC-000?style=for-the-badge)
+![Autenticação](https://img.shields.io/badge/Autenticação-000?style=for-the-badge)
+![Testes](https://img.shields.io/badge/Testes_Automatizados-000?style=for-the-badge)
+![Git](https://img.shields.io/badge/Versionamento_Git-000?style=for-the-badge)
+
+#
+
+<h3 align="left">Tecnologias para explorar 🚀</h3>
+
+<p>
+  <img title="TypeScript" alt="TypeScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+  <img title="React" alt="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+  <img title="Docker" alt="Docker" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+  <img title="Postman" alt="Postman" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
+</p>
 
 #
 
@@ -68,7 +97,7 @@ Busco constantemente aprimorar meus conhecimentos, explorando novas ferramentas,
   <img
     height="190"
     src="https://github-readme-stats.vercel.app/api?username=sandralencar&show_icons=true&locale=pt-br&theme=radical&hide_border=true"
-    alt="Estatísticas GitHub"
+    alt="Estatísticas do GitHub"
   />
 
   <img
@@ -81,21 +110,6 @@ Busco constantemente aprimorar meus conhecimentos, explorando novas ferramentas,
 
 #
 
-<h3 align="center">✨ Sempre aprendendo e evoluindo! ✨</h3>
-
-
-
-<!--
-**sandralencar/sandralencar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h3>✨ Sempre aprendendo, desenvolvendo e evoluindo! ✨</h3>
+</div>
